@@ -1,15 +1,6 @@
 # diplomado-machine-learning
 Repositorio para presentar las tareas relacionadas con el diplomado de machine learning 2023
 
-## Contenido
-
-    DeChallenge
-        Contenido
-        Descripción
-        Instalación
-        Uso
-        Autores
-
 ## Descripción
 
 Proyecto donde se almacenan las tareas para el diplomado de machine learning
@@ -52,5 +43,7 @@ python <tarea a ejecutar>.py
 Trabajo presentado por:
 
 -Andrés fernando angarita espitia
+
 -Edwin alfonso cruz caviedes
+
 -Oscar ivan palomar torres
