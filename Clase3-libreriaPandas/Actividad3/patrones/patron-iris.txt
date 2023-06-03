@@ -1,0 +1,5 @@
+un Patron que podemos observar en este conjunto de datos es la relación entre la longitud del pétalo y la especie de la flor iris.
+
+Si analizamos las tres especies de flores iris presentes en el conjunto de datos (setosa, versicolor y virginica), podemos observar que generalmente hay una diferencia clara en la longitud de los pétalos entre estas especies.
+
+En particular,podemos observar que la especie setosa tiende a tener una longitud del pétalo relativamente más corta en comparación con las otras dos especies. Podemos observar que la mayoría de las flores setosa tienen una longitud del pétalo inferior a aproximadamente 2 cm.

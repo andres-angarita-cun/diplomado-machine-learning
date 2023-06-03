@@ -1,0 +1,7 @@
+El conjunto de datos MNIST (Modified National Institute of Standards and Technology) es un conjunto de datos ampliamente utilizado en el campo del aprendizaje automático y la visión por computadora. Fue creado por el Instituto Nacional de Estándares y Tecnología (NIST) de Estados Unidos y modificado para su uso en el campo de la inteligencia artificial.
+
+El conjunto de datos MNIST consta de 70,000 imágenes en escala de grises de dígitos escritos a mano, con un tamaño de imagen de 28x28 píxeles. Cada imagen representa un único dígito del 0 al 9. Las imágenes están etiquetadas con la clase correspondiente que representa el dígito que se muestra en la imagen.
+
+El objetivo de MNIST es proporcionar un conjunto de datos estándar para evaluar y comparar algoritmos de clasificación de imágenes en tareas de reconocimiento de dígitos escritos a mano. Es comúnmente utilizado como un punto de referencia para probar nuevos modelos y técnicas de aprendizaje automático, especialmente en el campo del aprendizaje profundo.
+
+Para la utilización del codigo agregamos comentarios a cada linea de codigo para hacerlo autodocumentado.
