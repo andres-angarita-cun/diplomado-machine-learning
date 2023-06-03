@@ -1,3 +1,11 @@
-Basado en este conjunto de datos, se puede observar que existe una correlación entre la clase de pasajero (representada por la variable "Pclass") y la probabilidad de supervivencia.
+Basado en este conjunto de datos, se puede observar que existe 
+una correlación entre la clase de pasajero (representada por la 
+variable "Pclass") y la probabilidad de supervivencia.
 
-En general, se puede observar que los pasajeros de primera clase (Pclass = 1) tuvieron una tasa de supervivencia más alta en comparación con los pasajeros de segunda clase (Pclass = 2) y tercera clase (Pclass = 3). Este patrón se puede atribuir al hecho de que los pasajeros de primera clase tenían acceso a mejores servicios, como botes salvavidas y ubicaciones privilegiadas en el barco, lo que aumentaba sus posibilidades de sobrevivir en caso de un desastre.
+En general, se puede observar que los pasajeros de primera clase 
+(Pclass = 1) tuvieron una tasa de supervivencia más alta en comparación 
+con los pasajeros de segunda clase (Pclass = 2) y tercera clase (Pclass = 3). 
+Este patrón se puede atribuir al hecho de que los pasajeros de 
+primera clase tenían acceso a mejores servicios, como botes salvavidas 
+y ubicaciones privilegiadas en el barco, lo que aumentaba sus 
+posibilidades de sobrevivir en caso de un desastre.

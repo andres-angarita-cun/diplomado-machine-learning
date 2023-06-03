@@ -1,2 +1,8 @@
-Según una investigación relacionada en el libro "Genetics of Calico Cats" por Monica M. Tighe, se comprueba que La mayoría de los gatos tricolores (conocidos como gatos carey) son hembras. Esto se debe a que, para que un gato muestre el patrón de tres colores, debe tener dos cromosomas X (XX) y, por lo tanto, ser hembra. Los gatos machos solo tienen un cromosoma X (XY), por lo que no pueden tener el patrón de pelaje tricolor a menos que tengan una condición genética poco común, como el síndrome de Klinefelter (XXY).
+Según una investigación relacionada en el libro "Genetics of Calico Cats"
+por Monica M. Tighe, se comprueba que La mayoría de los gatos tricolores 
+(conocidos como gatos carey) son hembras. Esto se debe a que, para que un 
+gato muestre el patrón de tres colores, debe tener dos cromosomas X (XX) y, 
+por lo tanto, ser hembra. Los gatos machos solo tienen un cromosoma X (XY), 
+por lo que no pueden tener el patrón de pelaje tricolor a menos que tengan 
+una condición genética poco común, como el síndrome de Klinefelter (XXY).
 por lo tanto podemos concluir que tenemos el 17.34% son hembras

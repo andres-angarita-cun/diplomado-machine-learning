@@ -1,7 +1,32 @@
-El conjunto de datos MNIST (Modified National Institute of Standards and Technology) es un conjunto de datos ampliamente utilizado en el campo del aprendizaje automático y la visión por computadora. Fue creado por el Instituto Nacional de Estándares y Tecnología (NIST) de Estados Unidos y modificado para su uso en el campo de la inteligencia artificial.
+El conjunto de datos MNIST (Modified National Institute of Standards and Technology) 
+es un conjunto de datos ampliamente utilizado en el campo del aprendizaje automático 
+y la visión por computadora. Fue creado por el Instituto Nacional de Estándares y 
+Tecnología (NIST) de Estados Unidos y modificado para su uso en el campo de la 
+inteligencia artificial.
 
-El conjunto de datos MNIST consta de 70,000 imágenes en escala de grises de dígitos escritos a mano, con un tamaño de imagen de 28x28 píxeles. Cada imagen representa un único dígito del 0 al 9. Las imágenes están etiquetadas con la clase correspondiente que representa el dígito que se muestra en la imagen.
+El conjunto de datos MNIST consta de 70,000 imágenes en escala de grises de dígitos
+escritos a mano, con un tamaño de imagen de 28x28 píxeles. Cada imagen representa un 
+único dígito del 0 al 9. Las imágenes están etiquetadas con la clase correspondiente 
+que representa el dígito que se muestra en la imagen.
 
-El objetivo de MNIST es proporcionar un conjunto de datos estándar para evaluar y comparar algoritmos de clasificación de imágenes en tareas de reconocimiento de dígitos escritos a mano. Es comúnmente utilizado como un punto de referencia para probar nuevos modelos y técnicas de aprendizaje automático, especialmente en el campo del aprendizaje profundo.
+El objetivo de MNIST es proporcionar un conjunto de datos estándar para evaluar y comparar
+algoritmos de clasificación de imágenes en tareas de reconocimiento de dígitos escritos a 
+mano. Es comúnmente utilizado como un punto de referencia para probar nuevos modelos y 
+técnicas de aprendizaje automático, especialmente en el campo del aprendizaje profundo.
 
 Para la utilización del codigo agregamos comentarios a cada linea de codigo para hacerlo autodocumentado.
+
+en el podemos encontrar,
+Paso 1: Extracción de datos de digitos escritos a mano de la fuente de datos sklearn.datasets en la seccion fetch_openml
+Paso 2: Transformación de datos para la facilidad de tratamiento de la información con la libreria pandas
+        con ella pasamos los datos a un DataFrame
+Paso 3: Carga de datos en la base de datos SQL, en este caso se usa una base de datos sql
+        que está en un servidor local, alli tenemos la conexion a la base de datos con la 
+        libreria sqlalchemy, carga de los datos en la tabla mnist_data y por ultimo cerramos 
+        la conexión.
+Paso 4: Análisis exploratorio de datos, en el hacemos una pequeña revision de información 
+        general del conjunto de datos, como la cantidad total de filas en el DataFrame, el 
+        nombre y el tipo de datos de cada columna, la cantidad de valores no nulos en cada 
+        columna y la cantidad de memoria utilizada por el DataFrame.
+        Tambien hacemos una revision de estadistica descriptiva con df.describe()
+        y un vistazo con df.head() de los primeros registros del dataset. 
